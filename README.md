@@ -1,5 +1,5 @@
-[![MengXin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengxin239)](https://github.com/anuraghazra/github-readme-stats)
-
+[![MengXin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengxin239&show_icons=true&theme=dark)](https://blog.mengx.fun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengxin239&show_icons=true&theme=dark)](https://blog.mengx.fun)
 <!--
 **mengxin239/mengxin239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
