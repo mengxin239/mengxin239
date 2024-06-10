@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 给口饭吃
+# 讨饭链接
 XMR：49w8gsLw7UwUVszUBtYujdN1McNkoeYucTctaePX8nmbjKABzJ9S1rigWdh5EiUT1z4NPAPchxT7RaJXN3fURUpM6F6KGjy
+USDT: TBrHMPyzXqQUNtrd52EnygMqnVCGjw82S2
